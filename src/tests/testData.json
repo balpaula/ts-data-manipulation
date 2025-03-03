@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Paula Test",
+    "email": "paula@example.com",
+    "status": "active",
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "status": "inactive",
+    "tags": ["tag3", "tag4"]
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "email": "email@example.com",
+    "tags": ["developer"]
+  },
+  {
+    "id": "4",
+    "name": 4,
+    "email": "emailexample.com",
+    "status": "active",
+    "tags": ["developer"],
+    "extra": true
+  },
+  {
+    "id": 5,
+    "name": "New User",
+    "email": "user@example.com",
+    "status": "active",
+    "tags": [1, "tag2", true, "tag4"]
+  },
+  {
+    "id": 5,
+    "name": "Duplicated ID User",
+    "email": "user@example.com",
+    "status": "active",
+    "tags": [1, "tag2", true, "tag4"]
+  }
+]
