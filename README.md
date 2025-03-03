@@ -1,7 +1,7 @@
 # TS Data Manipulation
 This repository contains the TS Data Manipulation homework.
 
-## Requirements
+## Requirements of the task
 ### Data Structure:
 The input JSON will be an array of objects, and each object will represent a "user" with properties such as `id`,
 `name`, `email`, `status`, and `tags`. The tags property will be an array of strings, and you need to filter out any
